@@ -1,0 +1,36 @@
+syntax                                  
+
+1. switch 
+public clss classname{ :
+main class
+
+switch() {
+initializing
+case 1:
+print code
+break;
+case2
+}
+}
+
+2. for
+
+class name {
+main class {
+for(initialization,comparison, increment/decrement) {
+print
+}}}
+
+3. while loop
+main class
+initialisation;
+while(condition){
+println
+increment;
+4. method overloading
+
+inside main method create another method
+intialize variables
+print
+call the new method in the main method
+
